@@ -78,7 +78,7 @@ module.exports = {
       resolve: `gatsby-plugin-parsely-analytics`,
       options: {
         apikey: 'josh-parsely-takehome.netlify.com',
-        enableInDevelopment: true // send page views when NODE_ENV !== prod
+        enableInDevelopment: false // send page views when NODE_ENV !== prod
       }
     }
   ],
