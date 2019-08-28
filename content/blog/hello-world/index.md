@@ -1,8 +1,8 @@
 ---
-author: ""
+author: T.H. Ismeta
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
-section:
+section: Things
 tags:
   - eggs
 thumbnail: salty_egg.jpg

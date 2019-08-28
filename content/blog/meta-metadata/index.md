@@ -2,10 +2,10 @@
 author: T.H. Ismeta
 date: "2019-08-12T15:04:10.000Z"
 description: Homage to Hofstadter
-section: Metadata
+section: People
 tags:
   - metadata
-thumbnail:
+thumbnail: https://imgs.xkcd.com/comics/hofstadter.png
 title: An exploration of metadata
 type: BlogPosting
 ---
