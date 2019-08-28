@@ -74,5 +74,12 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    {
+      resolve: `gatsby-plugin-parsely-analytics`,
+      options: {
+        apikey: 'josh-parsely-takehome.netlify.com',
+        enableInDevelopment: true // send page views when NODE_ENV !== prod
+      }
+    }
   ],
 }
